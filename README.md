@@ -6,9 +6,9 @@
 
 ##  Screenshots
 
-| Home Screen | Profile & Performance |
-| :---: | :---: |
-| <img src="docs/screenshots/home.png" width="260"/> | <img src="docs/screenshots/profile.png" width="260"/> |
+|              Home Screen              |          Profile & Performance           |
+|:-------------------------------------:|:----------------------------------------:|
+| <img src="D:\Home.jpng" width="260"/> | <img src="D:\Profile.jpng" width="260"/> |
 
 ---
 
