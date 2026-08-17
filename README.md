@@ -8,7 +8,7 @@
 
 |              Home Screen              |          Profile & Performance           |
 |:-------------------------------------:|:----------------------------------------:|
-| <img src="D:\Home.jpng" width="260"/> | <img src="D:\Profile.jpng" width="260"/> |
+| <img src="docs/screenshots/Home.jpng" width="260"/> | <img src="docs/screenshots/Profile.jpng" width="260"/> |
 
 ---
 
@@ -43,4 +43,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Sameeh-Ekmail/Problem_Streak.git](https://github.com/Sameeh-Ekmail/Problem_Streak.git)
+   git clone (https://github.com/Sameeh-Ekmail/Problem_Streak.git)
